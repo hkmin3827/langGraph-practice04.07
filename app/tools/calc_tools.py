@@ -31,3 +31,6 @@ def divide(a: int, b: int) -> float:
         b: Second int
     """
     return a / b
+
+
+tools = [multiply, add, divide]
